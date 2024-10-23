@@ -13,7 +13,7 @@
 > ⚠️ I do my best to avoid detection of bots, but using bots is forbidden in all airdrops. i cannot guarantee that you will not be detected as a bot. Use at your own risk. I am not responsible for any consequences of using this software.
 
 
-# Join the bot [here](https://t.me/Hamster_kombat_bot/start?startapp=kentId7383969293)
+# Join the bot [here](t.me/hamster_kombat_bot/start?startapp=kentid6624523270)
 
 
 # 🔥🔥 Use PYTHON 3.10 - 3.11.5 🔥🔥
@@ -29,7 +29,7 @@
 | Auto playground                                                    |        ✅        |
 | Support for pyrogram .session / Query                         |        ✅        |
 
-## [Settings](https://github.com/truedna/Hamster-kombat/blob/main/.env-example)
+## [Settings](https://github.com/vanhbakaa/Hamster-kombat/blob/main/.env-example)
 | Settings | Description |
 |----------------------------|:-------------------------------------------------------------------------------------------------------------:|
 | **API_ID / API_HASH**      | Platform data from which to run the Telegram session (default - android)                                      |       
@@ -59,7 +59,7 @@ Before you begin, make sure you have the following installed:
 ## Installation
 You can download by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/truedna/Hamster-kombat.git
+git clone https://github.com/vanhbakaa/Hamster-kombat.git
 cd Hamster-kombat
 ```
 
@@ -118,7 +118,7 @@ You can also use arguments for quick start, for example:
 ```
 > pkg update && pkg upgrade -y
 > pkg install python rust git -y
-> git clone https://github.com/truedna/Hamster-kombat.git
+> git clone https://github.com/vanhbakaa/Hamster-kombat.git
 > cd Hamster-kombat
 > cp .env-example .env
 > nano .env
@@ -140,6 +140,12 @@ You can also use arguments for quick start, for example:
 
 If you'd like to support the development of this project, please consider making a donation. Every little bit helps!
 
+👉 **[Click here to view donation options](https://github.com/vanhbakaa/Donation/blob/main/README.md)** 👈
+
 Your support allows us to keep improving the project and bring more features!
 
 Thank you for your generosity! 🙌
+
+### Contacts
+
+For support or questions, you can contact me [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/airdrop_tool_vanh)
